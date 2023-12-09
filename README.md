@@ -46,7 +46,7 @@
 
 - **Current Status:** Updating the project to enhance user experience and add more features.
 
-- [Client Site](https://github.com/sadia111-a/Student-and-Class-Management-website) - [Server Site](https://github.com/sadia111-a/Student-and-Class-Management-website-server) - [Live Demo](http://melted-circle.surge.sh/)
+- [Client Site](https://github.com/sadia111-a/Student-and-Class-Management-website) - [Server Site](https://github.com/sadia111-a/Student-and-Class-Management-website-server) - [Live Link](http://melted-circle.surge.sh/)
 
 ### 🍴Community-food-sharing--surplus-reduction-platform
 
@@ -59,7 +59,7 @@
   - Backend: Node.js, Express.js
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT set at cookies
-- [Client Site](https://github.com/sadia111-a/Community-food-sharing--surplus-reduction-platform) - [Server Site](https://github.com/sadia111-a/Community-food-sharing--surplus-reduction-platform-server) - [Live Demo](https://ugliest-war.surge.sh/)
+- [Client Site](https://github.com/sadia111-a/Community-food-sharing--surplus-reduction-platform) - [Server Site](https://github.com/sadia111-a/Community-food-sharing--surplus-reduction-platform-server) - [Live Link](https://ugliest-war.surge.sh/)
 
 ### 💄 Cosmetic Brand-Shop Website
 
