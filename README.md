@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js and Mongoose**
 
-- 🔭 I’m currently working on **React Project**
+- 🔭 I’m currently working on **React,Java Script,Tailwind CSS,Express Js,MongoDb**
 
 - 💌 reach me **sadiasorna96@gmail.com**
 
@@ -33,37 +33,40 @@
 
 ## 🔥 Recent Projects
 
-### ⏳ Contest Hosting Website
+### 💻 Student-and-Class-Management-website
 
-- **Description:** A dynamic contest hosting platform enabling creators to host and judge competitions. Users participate in diverse contests, showcasing skills and vying for victory and win awards.
+- **Description:** An online platform where
+  people can learn skills
 - **Technologies Used:**
 
-  - Frontend: JavaScript, React.js, Tailwind CSS, Material UI, Headless UI, Framer
+  - Frontend: JavaScript, React.js, Tailwind CSS
   - Backend: Express.js, Node.js
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT set at cookies
 
 - **Current Status:** Updating the project to enhance user experience and add more features.
 
-- [Client Site](https://github.com/nadiaS11/contestHub-client-side) - [Server Site](https://github.com/nadiaS11/assignment-12-server) - [Live Demo](https://contesthub-project.web.app)
+- [Client Site](https://github.com/sadia111-a/Student-and-Class-Management-website) - [Server Site](https://github.com/sadia111-a/Student-and-Class-Management-website-server) - [Live Demo](http://melted-circle.surge.sh/)
 
-### :fork_and_knife: Restaurant Management Website
+### 🍴Community-food-sharing--surplus-reduction-platform
 
-- **Description:** A dynamic Restaurant Management Website for users can see and order food Items, and add, delete, or modify a food item. Users also have their foodie profiles to show all their food posts.
+- **Description:** Project focuses on building a Community Food Sharing Platform, and it aim to connect those
+  with surplus food to those in need, reducing food waste and addressing
+  hunger.
 
 - **Technologies Used:**
   - Frontend: JavaScript, React.js, Tailwind CSS
   - Backend: Node.js, Express.js
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT set at cookies
-- [Client Site](https://github.com/nadiaS11/namkeen-project-client-side) - [Server Site](https://github.com/nadiaS11/assignment-11-server) - [Live Demo](https://namkeen-project.web.app)
+- [Client Site](https://github.com/sadia111-a/Community-food-sharing--surplus-reduction-platform) - [Server Site](https://github.com/sadia111-a/Community-food-sharing--surplus-reduction-platform-server) - [Live Demo](https://ugliest-war.surge.sh/)
 
-### 💻 Tech Brand Based Website
+### 💄 Cosmetic Brand-Shop Website
 
-- **Description:** A tech brand-based website to add , update , delete or order a product
+- **Description:** A Cosmetics and Beauty brand-based website to add , update , delete or order a product
 - **Technologies Used:**
   - Frontend: JavaScript, React.js, Tailwind CSS
   - Backend: Node.js, Express.js
   - Database: MongoDB,
   - Authentication: Firebase Authentication
-- [Client Site](https://github.com/nadiaS11/brand-shop-client) - [Server Site](https://github.com/nadiaS11/assignment-10-brand-shop-server) - [Live Demo](https://nadtech-86358.web.app)
+- [Client Site](https://github.com/sadia111-a/Brand-Shop-client) - [Server Site](https://github.com/sadia111-a/Brand-Shop-server) - [Live Link](https://direful-time.surge.sh/)
